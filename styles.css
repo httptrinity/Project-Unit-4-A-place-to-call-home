@@ -1,0 +1,45 @@
+body {
+    background-color: black;
+
+}
+
+h1 {
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    color: white;
+
+}
+
+.about_us {
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    color: white;
+    border: 13px solid grey;
+}
+
+img {
+    width: 50px;
+    width: 50%;
+}
+
+.picture {
+    display: flex;
+    justify-content: space-between;
+}
+
+p {
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    color: white;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+}
+
+h4 {
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    color: white;
+}
